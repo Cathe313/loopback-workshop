@@ -9,11 +9,11 @@
 ## Main exercise: Create an address book API
 Using your newly acquired knowledge, re-create your own address book API. Your API should expose access to the following models, where * means required:
 
-1. AddressBook (name*=string)
-2. Entry (firstName*=string, lastName*=string, birthday=date)
-3. Address (type*=string, line1*=string, line2=string, city*=string, state*=string, zip*=string, country*=string)
-4. Phone (type*=string, phoneType*=string, phoneNumber*=string)
-5. EmailAddress (type*=string, emailAddress*=string)
+1. AddressBook (name\*=string)
+2. Entry (firstName\*=string, lastName\*=string, birthday=date)
+3. Address (type\*=string, line1\*=string, line2=string, city\*=string, state\*=string, zip\*=string, country\*=string)
+4. Phone (type\*=string, phoneType\*=string, phoneNumber\*=string)
+5. EmailAddress (type\*=string, emailAddress\*=string)
 
 Once the models are created, play with the API Explorer to get a feel for the creation (POST), modification (PUT) and listing (GET) of your models. Then, create the following relationships:
 
