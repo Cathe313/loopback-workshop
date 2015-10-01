@@ -7,7 +7,7 @@
 4. **READ ALL THE INSTRUCTIONS HERE BEFORE GETTING STARTED** (up to the challenge)
 
 ## Main exercise: Create an address book API
-Using your newly acquired knowledge, re-create your own address book API. Your API should expose access to the following models, where * means required:
+Using your newly acquired knowledge, re-create your own address book API. Your API should expose access to the following models, where \* means required:
 
 1. AddressBook (name\*=string)
 2. Entry (firstName\*=string, lastName\*=string, birthday=date)
